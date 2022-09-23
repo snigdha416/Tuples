@@ -1,0 +1,4 @@
+Write a Python program to reverse a tuple.
+
+a=('c','y','f','u','n','o')
+print(a[::-1])

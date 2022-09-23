@@ -1,0 +1,5 @@
+Write a Python program to find the length of a tuple.
+
+m=('c', 'y', 'f', 'u', 'n', 'o')
+print(m)
+print(len(m))
